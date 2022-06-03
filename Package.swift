@@ -5,6 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "BottomSheet",
+    platforms: [.iOS(.v15)],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
@@ -21,8 +22,5 @@ let package = Package(
         .target(
             name: "BottomSheet",
             dependencies: []),
-        .testTarget(
-            name: "BottomSheetTests",
-            dependencies: ["BottomSheet"]),
     ]
 )
