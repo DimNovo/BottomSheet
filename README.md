@@ -3,7 +3,7 @@
 [![Platform Support](https://shields.io/badge/Platform-iOS-lightgray?logo=apple&style=flat)](https://www.apple.com/ios/ios-15/)
 [![SwiftUI Support](https://shields.io/badge/SwiftUI-3.0-7b68ee?logo=Swift&style=flat)](https://developer.apple.com/xcode/swiftui/)
 [![SwiftPM compatible](https://shields.io/badge/SwiftPM-compatible-9acd32?logo=Swift&style=flat)](https://developer.apple.com/documentation/swift_packages)
-[![License](https://shields.io/badge/License-MIT-informational?style=flat)](https://github.com/DimNovo/BottomSheet/LICENSE)
+[![License](https://shields.io/badge/License-MIT-informational?style=flat)](https://github.com/DimNovo/BottomSheet/blob/main/LICENSE)
 
 A modal bottom sheet build with SwiftUI.
 
@@ -124,7 +124,7 @@ struct InventoryItem: Identifiable {
 
 ## License
 
-Licensed under the [MIT License](https://github.com/DimNovo/BottomSheet/LICENSE).
+Licensed under the [MIT License](https://github.com/DimNovo/BottomSheet/blob/main/LICENSE).
 
 ## Credits
 
